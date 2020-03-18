@@ -1,5 +1,4 @@
 # Project on Tartu Smart Bike data analysis
-## Introduction to Data Science - LTAT.02.002
 
 
 In `Rental_data_analysis.ipynb` notebook file we have done the smart bike rental data analysis.  
